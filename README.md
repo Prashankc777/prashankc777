@@ -6,11 +6,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💼 &nbsp; Currently working on CVA Project.
-- 💼 &nbsp; Worked on e-commerce, Cva , Fintech
-- 🔭 &nbsp; I’m currently Advancing C# , Blazor , .Net Vue js , quasar Framework for Development and Elastic Stack, Mongodb , Sql Server , Sql Lite for Database Management
+- 💼 &nbsp; Worked on e-commerce, Cva , Fintech.
+
+- 🔭 &nbsp; I’m currently Advancing C# , Blazor , .Net Vue js , quasar Framework for Development and Elastic Stack, Mongodb , Sql Server , Sql Lite for Database Management.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Enginnering
-- 🌱 &nbsp; Enthusiast in full-Stack development
+- 🎓 &nbsp; Studying Computer Enginnering.
+- 🌱 &nbsp; Enthusiast in full-Stack development.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for stress.
 
