@@ -5,34 +5,44 @@
 <h3> About Me --> Coding Is My Passion 👨‍💻 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💼 &nbsp; Currently working on insurance products.
-- 💼 &nbsp; Worked on e-commerce, IVR, and WebRtc products.
-- 💼 &nbsp; Contributing to NPM Package hexure UI and more open source projects.
-- 🔭 &nbsp; I’m currently Advancing React(Ts), Next.js, React Native for Development and Elastic Stack, Mongodb for Database Management
+- 💼 &nbsp; Currently working on CVa Project.
+- 💼 &nbsp; Worked on e-commerce, Cva , Fintech
+- 🔭 &nbsp; I’m currently Advancing C# , Blazor , .Net Vue js , quasar Framework for Development and Elastic Stack, Mongodb , Sql Server , Sql Lite for Database Management
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, Programming, and Mathematics.
-- 💼 &nbsp; full-stack Engineer and hands-on experience in Data Science and Networking.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
+- 🎓 &nbsp; Studying Computer Enginnering
+- 🌱 &nbsp; Enthusiast in full-Stack development
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for stress.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | React.js | Typescript | Next.js | C++ | MERN
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Sass | Tailwind
-- 🛢 &nbsp; MySQL | Firebase | Postman
-- 🔧 &nbsp; Google Collab | Jupyter | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+### Languages
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Backend Development
+![C# Badge](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blazor Badge](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+
+
+###  Database Development
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&theme=jolly" alt="lalit's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumawatlalit912&layout=compact&theme=jolly)](https://github.com/kumawatlalit912/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
