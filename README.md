@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp; I’m currently Advancing C# , Blazor , .Net Vue js , quasar Framework for Development and Elastic Stack, Mongodb , Sql Server , Sql Lite for Database Management.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Enginnering.
+- 🎓 &nbsp; Studied Computer Enginnering.
 - 🌱 &nbsp; Enthusiast in full-Stack development.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for stress.
