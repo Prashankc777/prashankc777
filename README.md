@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 💼 &nbsp; Currently working on CVA Project.
-- 💼 &nbsp; Worked on e-commerce, Cva , Fintech.
+- 💼 &nbsp; Worked on e-commerce, CVA , Fintech.
 
 - 🔭 &nbsp; I’m currently Advancing C# , Blazor , .Net Vue js , quasar Framework for Development and Elastic Stack, Mongodb , Sql Server , Sql Lite for Database Management.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
