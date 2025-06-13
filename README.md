@@ -10,7 +10,7 @@
 <h3> About Me --> Coding Is My Passion 👨‍💻 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💼 &nbsp; Currently working on Booking Management System.
+- 💼 &nbsp; Currently working on HRMS.
 - 💼 &nbsp; Worked on E-Commerce, CVA, Fintech , Enterprise software solutions , Data analytics systems, CRM systems, ERP systems, Healthcare solutions, Educational platforms.
 
 - 🔭 &nbsp; I’m currently Advancing C#, Blazor, .NET, Vue.js, Quasar Framework for Development, and Elastic Stack, MongoDB, SQL Server, SQLite for Database Management.
